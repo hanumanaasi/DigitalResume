@@ -89,7 +89,7 @@ st.write(
 # --- SKILLS ---
 st.write('\n')
 st.subheader("Hard Skills")
-st.image(skills_pic, width=250)
+st.image(skills_pic, width=300)
 
 
 # --- WORK HISTORY ---
